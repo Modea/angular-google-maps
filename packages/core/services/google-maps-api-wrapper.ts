@@ -1,5 +1,6 @@
 import {Injectable, NgZone} from '@angular/core';
-import {Observable, Observer} from 'rxjs';
+import {Observable} from 'rxjs';
+import {Observer} from 'rxjs';
 
 import * as mapTypes from './google-maps-types';
 import {Polyline} from './google-maps-types';
