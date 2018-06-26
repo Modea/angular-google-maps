@@ -1,6 +1,6 @@
 {
-  "name": "@agm/clusterer-src",
+  "name": "@modea/clusterer-src",
   "dependencies": {
-    "@agm/core": "file:../core"
+    "@modea/core": "file:../core"
   }
 }

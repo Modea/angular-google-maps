@@ -1,7 +1,7 @@
 import {Directive, Input, Output, EventEmitter, OnDestroy, OnChanges, OnInit, SimpleChange} from '@angular/core';
 
 import {ClusterManager} from '../services/managers/cluster-manager';
-import {MarkerManager, InfoWindowManager} from '@agm/core';
+import {MarkerManager, InfoWindowManager} from '@modea/core';
 
 import {ClusterOptions, ClusterStyle} from '../services/google-clusterer-types';
 
