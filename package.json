@@ -1,6 +1,6 @@
 {
   "name": "@modea/agm",
-  "version": "1.0.0-beta.8",
+  "version": "2.0.4",
   "description": "Forked version of Angular Google Maps that Includes Clusterer Events",
   "repository": {
     "type": "git",
@@ -37,8 +37,8 @@
   "license": "MIT",
   "homepage": "https://angular-maps.com",
   "peerDependencies": {
-    "@angular/common": "^5.0.0 || ^6.0.0",
-    "@angular/core": "^5.0.0 || ^6.0.0"
+    "@angular/common": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0",
+    "@angular/core": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0"
   },
   "devDependencies": {
     "@angular/animations": "^6.0.0",
